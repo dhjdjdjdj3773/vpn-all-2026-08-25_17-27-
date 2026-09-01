@@ -1,2 +1,34 @@
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&security=tls&sni=www.bing.com#%E6%96%B0%E5%8A%A0%E5%9D%A1+%E7%94%B2%E9%AA%A8%E6%96%87%E6%9C%BA%E6%88%BF
-hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443?insecure=1&sni=replay.wwwinternetvideo.click#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
+# HYSTERIA2 VPN keys - 2026-09-01 14:15:42
+# Istochniki: GitHub + API + podpiski
+# Vsego: 26 unikalnyh
+#
+# Android: V2RayNG, Hiddify, Nekobox
+# Windows: V2RayN, Nekoray, Hiddify
+# iOS: Streisand, V2Box, FoXray
+
+hysteria2://436114b5f36b2e704bdfa0927d57b6cd@47.241.108.227:50160?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
+hysteria2://|hy2://`、`trojan://`、`ss://`、`vless://`、`vmess://`协议链接转换为clash可用的代理节点配置
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#EPODONIOS
+hysteria2://`
+hysteria2://auth@server:port?sni=sni&insecure=1&obfs=obfs&obfs-password=obfs-password#name
+hysteria2://%s@%s:%d?%s#%s
+hysteria2://${auth}@${server}?insecure=${insecure}&sni=${sni}`;
+hysteria2://${auth}@${server}:${port}?&insecure=${insecure}&sni=${sni}&obfs=${obfs}&obfs-password=${obfs_password}#${name}`;
+hysteria2://${auth}@${server_info}?insecure=${insecure}&sni=${sni}`;
+hysteria2://[^\s
+hysteria2://$UUID@$available_ip:$HY2_PORT/?sni=www.bing.com&alpn=h3&insecure=1#$NAME-hy2
+hysteria2://base64@server:port...`
+hysteria2://${AUTH_PASSWORD}@${IP}:${SERVER_PORT}?sni=${SNI}&alpn=${ALPN}&insecure=1#Hy2-Bing
+hysteria2://$password@$IPV4:$port/?insecure=1&obfs=salamander&obfs-password=$password&sni=google.com#HysteriaV2
+hysteria2://$password@[$IPV6
+hysteria2://password@server:port?sni=example.com`
+hysteria2://username:password@domain:443?sni=domain&insecure=0#username`.
+hysteria2://%40KevinZakarian@194.117.224.146:22002?insecure=1&obfs=salamander&obfs-password=KevinZakarian&sni=m.vk.com#KV
+hysteria2://`,
+hysteria2://password@server:port/?params#name
+hysteria2://...
+hysteria2://letmein@example.com:443...
+hysteria2://,
+hysteria2://uuid@server:port?sni=example.com#节点名称
+hysteria2://password@address:port?obfs=salamander&obfs-password=xxx&sni=example.com&insecure=1#name
+hysteria2://password@address:port[?param1=value1&param2=value2...
